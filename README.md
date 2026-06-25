@@ -57,15 +57,15 @@ Building a solid foundation before moving into more advanced topics like archite
 - ✅ UILabel
 - ✅ UIButton
 - ✅ UIImageView
+- ✅ UIAlertController
+- ✅ UIPickerView
+- ✅ UISegmentedControl
+- ✅ UISwitch
+- ✅ UIPageControl
+- ✅ UITextField
 
 ### ⏳ Next
 
-- UIAlertController
-- UIPickerView
-- UISegmentedControl
-- UISwitch
-- UIPageControl
-- UITextField
 - Auto Layout
 - UIStackView
 - UITextView
