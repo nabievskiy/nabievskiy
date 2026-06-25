@@ -12,7 +12,6 @@ I believe that strong software is built on strong fundamentals, so I prefer stud
 
 Every project in this GitHub represents another step in that journey.
 
-⸻
 
 ## 🧠 How I Learn
 
@@ -25,7 +24,6 @@ Whenever I discover something new, I usually ask myself questions like:
 
 Understanding these answers helps me become a better engineer, not just someone who can write code that happens to compile.
 
-⸻
 
 ## 🚀 Current Journey
 
@@ -63,7 +61,6 @@ Next on my roadmap:
 * UITableView
 * UICollectionView
 
-⸻
 
 ## 📂 About My Projects
 
@@ -73,7 +70,6 @@ Their purpose is not only to demonstrate the final result, but also to document 
 
 I enjoy revisiting earlier code, improving it, and deepening my understanding over time.
 
-⸻
 
 ## 🌱 Always Learning
 
@@ -84,7 +80,6 @@ Right now I’m strengthening my understanding of:
 * Generics
 * iOS Architecture
 
-⸻
 
 ## 💭 A Thought I Keep Coming Back To
 
