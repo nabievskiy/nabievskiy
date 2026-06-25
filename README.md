@@ -1,90 +1,109 @@
-## 👋 Hi, I’m Ruslan
+# 👋 Hi there, I'm Ruslan
 
-Aspiring iOS Developer • Learning Swift one mechanism at a time
+### Aspiring iOS Developer • Learning Swift one mechanism at a time
 
-I’m currently learning iOS development with Swift and UIKit.
+I'm currently learning **iOS Development** with **Swift** and **UIKit**.
 
-My goal isn’t simply to build apps.
+My goal isn't simply to build apps — it's to understand **how they actually work**.
 
-I want to understand how they work.
+I believe that writing code is only part of becoming a developer. Understanding the underlying mechanisms is what turns knowledge into experience.
 
-I believe that strong software is built on strong fundamentals, so I prefer studying the underlying mechanisms instead of memorizing syntax or copying solutions.
+Every repository here represents another step in that journey.
 
-Every project in this GitHub represents another step in that journey.
+---
 
+## 🧠 My Learning Philosophy
 
-## 🧠 How I Learn
+Whenever I learn something new, I naturally ask questions like:
 
-Whenever I discover something new, I usually ask myself questions like:
+- ❓ Why does this work?
+- ⚙️ What happens under the hood?
+- 🏗️ How is it implemented?
+- 🍎 Why did Apple design it this way?
 
-* Why does this work?
-* What happens under the hood?
-* How is it implemented?
-* Why did Apple design it this way?
+Instead of memorizing syntax, I prefer understanding the ideas behind it.
 
-Understanding these answers helps me become a better engineer, not just someone who can write code that happens to compile.
+Because today's answer becomes tomorrow's intuition.
 
+---
 
-## 🚀 Current Journey
+## 🚀 Current Focus
 
 Currently learning:
 
-* Swift
-* UIKit
-* Git & GitHub
+- 🍎 Swift
+- 📱 UIKit
+- 🌿 Git & GitHub
 
-Recently explored:
+Building a solid foundation before moving into more advanced topics like architecture and design patterns.
 
-* Swift Fundamentals
-* Collections
-* Functions & Closures
-* Extensions
-* Protocol Basics
-* Enums, Structs & Classes
-* Git Basics
-* UILabel
-* UIButton
-* UIImageView
+---
 
-Next on my roadmap:
+## 🛣️ Learning Roadmap
 
-* UIAlertController
-* UIPickerView
-* UISegmentedControl
-* UISwitch
-* UIPageControl
-* UITextField
-* Auto Layout
-* UIStackView
-* UITextView
-* UIScrollView
-* UITableView
-* UICollectionView
+### ✅ Completed
 
+- Swift Fundamentals
+- Collections
+- Functions & Closures
+- Extensions
+- Basic Protocols
+- Enums
+- Structs & Classes
+- Git Basics
 
-## 📂 About My Projects
+### 📚 UIKit
+
+- ✅ UILabel
+- ✅ UIButton
+- ✅ UIImageView
+
+### ⏳ Next
+
+- UIAlertController
+- UIPickerView
+- UISegmentedControl
+- UISwitch
+- UIPageControl
+- UITextField
+- Auto Layout
+- UIStackView
+- UITextView
+- UIScrollView
+- UITableView
+- UICollectionView
+
+---
+
+## 📂 About This GitHub
 
 Most repositories here are learning projects.
 
-Their purpose is not only to demonstrate the final result, but also to document my progress as I continue growing as an iOS developer.
+I'm not trying to build dozens of projects as quickly as possible.
 
-I enjoy revisiting earlier code, improving it, and deepening my understanding over time.
+Instead, I prefer creating projects that help me understand **why** the code works and revisiting them later as my knowledge grows.
 
+I enjoy improving earlier code, discovering better solutions and strengthening the fundamentals.
 
-## 🌱 Always Learning
+---
 
-Right now I’m strengthening my understanding of:
+## 🌱 Currently Improving
 
-* UIKit
-* Object-Oriented Programming
-* Generics
-* iOS Architecture
+- UIKit
+- Object-Oriented Programming
+- Generics
+- iOS Architecture
 
+---
 
-## 💭 A Thought I Keep Coming Back To
+## 💭 Personal Motto
 
-I don’t just want to know that something works.
+> *"I don't just want to know that something works.*
+>
+> *I want to understand why it works.*
+>
+> *Because understanding builds confidence, and confidence builds better software."*
 
-I want to understand why it works.
+---
 
-Because understanding builds confidence, and confidence builds better software.
+Thanks for stopping by! 👋
