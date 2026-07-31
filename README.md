@@ -63,14 +63,14 @@ Building a solid foundation before moving into more advanced topics like archite
 - ✅ UISwitch
 - ✅ UIPageControl
 - ✅ UITextField
+- ✅ Auto Layout
+- ✅ UIStackView
+- ✅ UITextView
+- ✅ UIScrollView
+- ✅ UITableView
 
 ### ⏳ Next
 
-- Auto Layout
-- UIStackView
-- UITextView
-- UIScrollView
-- UITableView
 - UICollectionView
 
 ---
